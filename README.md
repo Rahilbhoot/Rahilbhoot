@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rahilbhoot1612" target="blank"><img src="https://img.shields.io/twitter/follow/rahilbhoot1612?logo=twitter&style=for-the-badge" alt="rahilbhoot1612" /></a> </p>
 
-- 🔭 I’m currently working on **Netflix Clone**
+- 🔭 I’m currently working on **Spotify Clone Using HTML, CSS & JS**
 
 - 🌱 I’m currently learning **React JS, MongoDB, Express JS**
 
