@@ -1,7 +1,7 @@
 [![An image of @rahilbhoot's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahilbhoot)](https://holopin.io/@rahilbhoot)
 <h1 align="center">Hi 👋, I'm Rahil Bhoot</h1>
 <h3 align="center">I am passionate about front-end web development and always motivated to learn more new things about it.</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahilbhoot&label=Profile%20views&color=0e75b6&style=flat" alt="rahilbhoot" /> </p>
 
